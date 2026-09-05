@@ -4,6 +4,8 @@
 
 姿势来源:https://x.com/xsser_w/status/2088181353233932418
 
+<img width="2230" height="1642" alt="image" src="https://github.com/user-attachments/assets/2d1a54a4-33a8-435c-b665-141945c3e462" />
+
 一个给运维朋友"开个小玩笑"的整蛊工具：**无论 `dig` 什么域名，ANSWER 里永远第一条是：**
 
 ```
